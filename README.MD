@@ -2,4 +2,4 @@
 
 
 ## Updates
-Added simple bootstrap Nav bar with sign in form drop down
+*Added simple bootstrap Nav bar with sign in form drop down
